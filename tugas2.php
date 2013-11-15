@@ -1,4 +1,9 @@
 <?php
+
+//Dibuat Oleh
+//Muhammad Fajrin (18211010)
+//R. Ryan Adi Wicaksana (18211035)
+
 $xml = new SimpleXMLElement("progin.xml".$_GET["callsign"], 0, TRUE);
 ?>
 
